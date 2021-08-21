@@ -1,6 +1,6 @@
 title: "First Principle"
 author: "Chin Ling"
-description: "2021 &copy; Machine Learning | Chin Ling"
+description: "2021 &copy; Chin Ling"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:chinling@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/chinling/blog"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/chinling/"}
+  - {title: Github, icon: github, url: "https://github.com/chinling"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
