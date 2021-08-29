@@ -5,15 +5,13 @@ layout: resume
 ---
 
 # Chin Ling
-
-> ![My Photo](/assets/about/my_photo.png){:id="pic"}
-
-> <br>I am an avid learner and practitioner in all things data, with broad experience in data engineering, applied data science, machine learning and AI verticals. I have unique skills to operate at different levels from hands-on "building from scratch" role to team-building, people management, thought leadership and execute on a strategic vision, with proven track records of delivering quality results across different industries in computer hardware, telecommunication, finance, fashion retail, and recruiting SaaS.During my free time, I love reading books on leadership and management.<br><br>
+> ![My Photo](/assets/images/about/my_photo.png){:id="pic"}
+> I am an avid data practitioner, having 15+ years of experience leading successful data initiatives across many different environments, from start-ups to well-established organizations going through a transformative journey. I am a lifetime learner and technologist at heart, always keen to learn and find a new approach to solving a business problem and unlock value creation. I am a firm believer in servant leadership, and I find tremendous joy in building and growing teams, building products, and dabbling with new technologies. I still write code in my free time and enjoy reading management and leadership books.
 
 ## Experience
 
 ### **Gap, Inc., San Francisco, CA** <span>Sep 2018&ndash;Present</span>
-### ***Director, Data & Analytics***
+#### ***Director, Data & Analytics***
 Led multi-year strategy and roadmap for Gap Data Platform and AI/MLOps initiatives.<br><br>
 
 ***Key highlights & accomplishments:***
@@ -23,7 +21,7 @@ Led multi-year strategy and roadmap for Gap Data Platform and AI/MLOps initiativ
 
 <br><br>
 ### **Entelo, San Francisco, CA** <span>Aug 2016&ndash;Sep 2018</span>
-### ***Head of Data***
+#### ***Head of Data***
 Built a sophisticated AI-powered recruiting platform used by 700+ companies such as Facebook, Apple, Google, Amazon, and Goldman Sachs.<br><br>
 
 ***Key highlights & accomplishments:***
@@ -34,7 +32,7 @@ Built a sophisticated AI-powered recruiting platform used by 700+ companies such
 
 <br><br>
 ### **Gap, Inc., San Francisco, CA** <span>Aug 2015&ndash;Aug 2016</span>
-### ***Director of Engineering, Head of Analytics***
+#### ***Director of Engineering, Head of Analytics***
 Led a multi-year technical strategy and architecture roadmap for supply chain analytics that is foundational to Gap's next-generation Inventory Management, Merchandising, and Planning solution.<br><br>
 
 ***Key highlights & accomplishments:***
@@ -44,7 +42,7 @@ Led a multi-year technical strategy and architecture roadmap for supply chain an
 
 <br>
 ### **Blackrock, San Francisco, CA** <span>Jan 2005 - Aug 2015</span>
-### ***Vice President, Head of Analytics***
+#### ***Vice President, Head of Analytics***
 10+ years of experience in leading and building complex distributed data, analytics, and machine learning systems with deep expertise in the areas of alpha research, portfolio construction, risk and attribution analytics, portfolio optimization algorithms, and tools.<br><br>
 
 ***Key highlights & accomplishments:***
