@@ -1,5 +1,5 @@
 ---
-title: "Chin Ling Resume"
+title: "About"
 permalink: "/about/"
 layout: resume
 ---
@@ -8,7 +8,7 @@ layout: resume
 
 > ![My Photo](/assets/about/my_photo.png){:id="pic"}
 
-> <br>I am an avid learner and practitioner in all things data, with broad experience in data engineering, applied data science, machine learning and AI verticals. I have unique skills to operate at different levels from hands-on "building from scratch" role to team-building, people management, thought leadership and execute on a strategic vision, with proven track records of delivering quality results across different industries in computer hardware, telecommunication, finance, fashion retail, and recruiting SaaS.<br><br>
+> <br>I am an avid learner and practitioner in all things data, with broad experience in data engineering, applied data science, machine learning and AI verticals. I have unique skills to operate at different levels from hands-on "building from scratch" role to team-building, people management, thought leadership and execute on a strategic vision, with proven track records of delivering quality results across different industries in computer hardware, telecommunication, finance, fashion retail, and recruiting SaaS.During my free time, I love reading books on leadership and management.<br><br>
 
 ## Experience
 
