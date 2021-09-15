@@ -1,4 +1,4 @@
-title: "First Principle"
+title: "First Principle | Engineering Leadership Blog"
 author: "Chin Ling"
 description: "2021 &copy; Chin Ling"
 permalink: /:title/
@@ -30,3 +30,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-toc
+ - jekyll-paginate

@@ -6,17 +6,19 @@ layout: resume
 
 # Chin Ling
 > ![My Photo](/assets/images/about/my_photo.png){:id="pic"}
-> I am an avid data practitioner, having 15+ years of experience leading successful data initiatives across many different environments, from start-ups to well-established organizations going through a transformative journey. I am a lifetime learner and technologist at heart, always keen to learn and find a new approach to solving a business problem and unlock value creation. I am a firm believer in servant leadership, and I find tremendous joy in building and growing teams, building products, and dabbling with new technologies. I still write code in my free time and enjoy reading management and leadership books.
+> I am an avid data practitioner, having 15+ years of experience leading successful data initiatives across many different environments, from start-ups to well-established organizations going through a transformative journey. I am a lifetime learner and technologist at heart, always keen to learn and find a new approach to solving a business problem and unlock value creation. I am a firm believer in servant leadership, and I find tremendous joy in building and growing teams, building products, and dabbling with new technologies. 
 
 ## Experience
 
 ### **Gap, Inc., San Francisco, CA** <span>Sep 2018&ndash;Present</span>
-#### ***Director, Data & Analytics***
+#### ***Director, Data & AI/ML Platforms***
 Led multi-year strategy and roadmap for Gap Data Platform and AI/MLOps initiatives.<br><br>
 
 ***Key highlights & accomplishments:***
 - Led global data strategy, encompassing vision, roadmap, architecture, data platform, and data governance. Partner closely with leaders across the organization to identify the right technology capabilities, architecture patterns and blueprints, defining standards, guiding principles, governance paradigm, and operating model.
-- Created AI/MLOps engineering vision and strategy for Gap’s enterprise analytics platform, overseeing technical decisions, technology choices, and architecture for a wide range of AI products, capabilities, and platforms in domain such as inventory, supply chain, and customer analytics.
+- Built the Gap Data Platform to reduce time-to-market and accessibility for all data-driven initiatives, scaled ingestion
+with streaming-first approach, streamlined enterprise integration pattern with Confluent Kafka, brought in and developed best practices around the use of Azure Databricks, Delta Lake and MLFlow, modernized legacy data warehousing system (Teradata, Hadoop, etc.), and overhauled the customer data science tech stack, resulting in improvement of job runtime SLA by 91% and data freshness by 86%
+- Led AI/MLOps engineering vision and strategy for Gap’s enterprise analytics platform, overseeing technical decisions, technology choices, and architecture for a wide range of AI products, capabilities, and platforms in domain such as inventory, supply chain, and customer analytics.
 - Led and mentored a team of 50+ people to grow into 80-100 by 2022. Go-to leader and expert, effective in influencing and working with senior leaders (VP-level and above) on initiatives that impact 85+ product teams comprising 500+ engineers.
 
 <br><br>
